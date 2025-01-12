@@ -1,0 +1,7 @@
+{
+    "name": "analyze-revenue",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "analyzeRevenue.js"
+  }
+  
